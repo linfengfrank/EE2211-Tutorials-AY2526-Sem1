@@ -26,14 +26,7 @@ Anaconda is a Python distribution that makes it easier to manage packages and en
 
 ---
 
-## Recorded Tutorial Veideos
-[Pre-Tutorial 9](https://youtu.be/trOE51gSkQg?si=toTni1FyaYOZCAVw) and [Tutorial 9](https://youtu.be/_mat3sEhaGU?si=_rklNhbMy5S5HqS8)
-
-[Pre-Tutorial 10](https://youtu.be/4XqqFc1ILrA?si=YPH9UH6oa_HEn6mW) and [Tutorial 10](https://youtu.be/ZwE718b8CRY?si=5XxJvj1NHA5VZAxl)
-
-[Pre-Tutorial 12](https://youtu.be/2vvb129B6mw) and [Tutorial 12](https://youtu.be/UP_w6JJN8Lc)
-
-## Commonly Used Commands
+## Commonly Used Commands in Anaconda
 Create a new environment called ee2211 in Anaconda terminal.
 ```
 conda create --name ee2211 python=3.8 numpy=1.24 matplotlib scikit-learn pandas
@@ -66,6 +59,13 @@ This is a brief introduction to pandas: [https://pandas.pydata.org/docs/user_gui
 Scikit-learn tutorials: [https://scikit-learn.org/1.4/tutorial/index.html]
 
 Scikit-learn introduction: [https://scikit-learn.org/stable/]
+
+## Recorded Tutorial Veideos
+[Pre-Tutorial 9](https://youtu.be/trOE51gSkQg?si=toTni1FyaYOZCAVw) and [Tutorial 9](https://youtu.be/_mat3sEhaGU?si=_rklNhbMy5S5HqS8)
+
+[Pre-Tutorial 10](https://youtu.be/4XqqFc1ILrA?si=YPH9UH6oa_HEn6mW) and [Tutorial 10](https://youtu.be/ZwE718b8CRY?si=5XxJvj1NHA5VZAxl)
+
+[Pre-Tutorial 12](https://youtu.be/2vvb129B6mw) and [Tutorial 12](https://youtu.be/UP_w6JJN8Lc)
 
 
 ## Feedback
