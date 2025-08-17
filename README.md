@@ -11,7 +11,7 @@ You can also use DownGit to download a subfolder from a GitHub repository:[https
 ---
 ## 🖥️ Pre-Tutorial 2 Setup Guide
 
-Welcome! Before attending the tutorial, please make sure you have installed and configured the required software. This ensures that you can smoothly follow along with the hands-on exercises.
+Welcome! Before attending **Tutorial 2**, please make sure you have installed and configured the required software. This ensures that you can smoothly follow along with the tutorial questions.
 
 <!-- ## ⚠️ Pre-Session Setup (Important!) -->
 
@@ -47,7 +47,7 @@ VS Code will be the main editor we use for this tutorial.
 ## Commonly Used Commands in Anaconda
 Create a new environment called ee2211 in Anaconda terminal.
 ```
-conda create --name ee2211 python=3.8 numpy=1.24 matplotlib scikit-learn pandas
+conda create --name ee2211 python=3.11 numpy matplotlib scikit-learn pandas
 ```
 
 Activate the ee2211 environment in Anaconda terminal.
@@ -77,6 +77,8 @@ This is a brief introduction to pandas: [https://pandas.pydata.org/docs/user_gui
 Scikit-learn tutorials: [https://scikit-learn.org/1.4/tutorial/index.html]
 
 Scikit-learn introduction: [https://scikit-learn.org/stable/]
+
+---
 
 ## Recorded Tutorial Veideos
 [Pre-Tutorial 9](https://youtu.be/trOE51gSkQg?si=toTni1FyaYOZCAVw) and [Tutorial 9](https://youtu.be/_mat3sEhaGU?si=_rklNhbMy5S5HqS8)
