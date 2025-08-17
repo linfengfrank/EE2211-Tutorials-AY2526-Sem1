@@ -9,6 +9,25 @@ Instructions on how to download files from GitHub can be found here: [Downloadin
 You can also use DownGit to download a subfolder from a GitHub repository:[https://downgit.github.io/#/home]
 
 
+# 🖥️ Pre-Tutorial Setup Guide
+
+Welcome! Before attending the tutorial, please make sure you have installed and configured the required software. This ensures that you can smoothly follow along with the hands-on exercises.
+
+---
+
+## ⚠️ Pre-Session Setup (Important!)
+
+### 1. Install **Anaconda**
+Anaconda is a Python distribution that makes it easier to manage packages and environments.  
+
+- Download from: [https://www.anaconda.com/download](https://www.anaconda.com/download)  
+- Follow the installer instructions for your operating system (Windows / macOS / Linux).  
+- After installation, open **Anaconda Prompt (Windows)** or **Terminal (macOS/Linux)** and verify by running:
+  ```bash
+  conda --version
+
+---
+
 ## Recorded Tutorial Veideos
 [Pre-Tutorial 9](https://youtu.be/trOE51gSkQg?si=toTni1FyaYOZCAVw) and [Tutorial 9](https://youtu.be/_mat3sEhaGU?si=_rklNhbMy5S5HqS8)
 
