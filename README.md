@@ -9,7 +9,7 @@ Instructions on how to download files from GitHub can be found here: [Downloadin
 You can also use DownGit to download a subfolder from a GitHub repository:[https://downgit.github.io/#/home]
 
 ---
-## 🖥️ Pre-Tutorial Setup Guide
+## 🖥️ Pre-Tutorial 2 Setup Guide
 
 Welcome! Before attending the tutorial, please make sure you have installed and configured the required software. This ensures that you can smoothly follow along with the hands-on exercises.
 
@@ -28,6 +28,19 @@ Anaconda is a Python distribution that makes it easier to manage packages and en
 VS Code will be the main editor we use for this tutorial.
 
 - Download from: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+### 3. Install **the following in Visual Studio Code (VS Code):**
+
+(1). **Jupyter Notebook Plugin** – for running `.ipynb` notebooks directly inside VS Code  
+(2). **Python Extension** – for Python language support, debugging, etc.  
+
+**Installation Steps:**
+- Open **VS Code**
+- Go to the **Extensions Marketplace** (`Ctrl+Shift+X` on Windows/Linux or `Cmd+Shift+X` on Mac)
+- Search for and install:
+  - `Jupyter` (by Microsoft)
+  - `Python` (by Microsoft)
+- Verify that both extensions are enabled
 
 ---
 
