@@ -24,6 +24,11 @@ Anaconda is a Python distribution that makes it easier to manage packages and en
   ```bash
   conda --version
 
+### 2. Install **Visual Studio Code (VS Code)**
+VS Code will be the main editor we use for this tutorial.
+
+- Download from: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
 ---
 
 ## Commonly Used Commands in Anaconda
