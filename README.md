@@ -13,7 +13,7 @@ You can also use DownGit to download a subfolder from a GitHub repository:[https
 
 Welcome! Before attending the tutorial, please make sure you have installed and configured the required software. This ensures that you can smoothly follow along with the hands-on exercises.
 
-<--! ## ⚠️ Pre-Session Setup (Important!) -->
+<!-- ## ⚠️ Pre-Session Setup (Important!) -->
 
 ### 1. Install **Anaconda**
 Anaconda is a Python distribution that makes it easier to manage packages and environments.  
